@@ -1,0 +1,5 @@
+/* Подключение шрифтов */
+@font-face {
+	font-family: Roboto;
+	src: url("../#");
+}
