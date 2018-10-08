@@ -1,3 +1,3 @@
 ## Js Practise
 
-[Simple calculator #1]( https://js/Calculator "my first work")
+[Simple calculator #1]( https://dariyaleleka.github.io/js/Calculator/ "my first work")
