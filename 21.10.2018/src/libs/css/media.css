@@ -1,0 +1,26 @@
+
+@media screen and (max-width: 1024px) {
+  .header_menu {
+		flex-direction: column;
+		width: 50%;
+	}
+
+}
+
+@media screen and (max-width: 640px) {
+	.header_menu{
+		flex-direction: row;
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 320px) {
+		.header_menu {
+		flex-direction: column;
+		width: 50%;
+	 }
+	 .link_without {
+	 	display: none;
+	 }
+	}
+
